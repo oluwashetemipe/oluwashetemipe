@@ -13,6 +13,7 @@ I'm here to help the world learn to code, do great things with data prowess, sol
 
 #### Github Stats 📊
 Make sure to say hi on twitter cheers!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Oluwashetemipe's github stats](https://github-readme-stats.vercel.app/api?username=Oluwashetemipe)](https://github.com/anuraghazra/github-readme-stats)
 
