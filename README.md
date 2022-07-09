@@ -1,6 +1,6 @@
-# Meet me
+# Profile
 
-<h2> Hi there 👋, I'm Emmanuel Morenike O! </h2>
+<h2> Hi there 👋, I'm Emmanuel Morenike Oluwashetemipe! Welcome.</h2>
 
 [![Oluwashetemipe Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shetemipe)
 
