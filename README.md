@@ -6,9 +6,8 @@
 
 
 I'm a Software Engineer.
-I build stuffs with JAVA,PYTHON,SPRINGBOOT,JAVAEE,VUE, NODE and DJANGO
+I build stuffs with JAVA,PYTHON,SPRINGBOOT,JAVASCRIPT, NODE and DJANGO
 
-I'm here to help the world learn to code, do great things with data prowess, solve problems, and learn more.
 
 
 #### Github Stats 📊
