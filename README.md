@@ -6,7 +6,7 @@
 
 
 I'm a Software Engineer.
-I build stuffs with JAVA,PYTHON,SPRINGBOOT,JAVASCRIPT, NODE and DJANGO
+I build stuffs with JAVA,PYTHON,JAVASCRIPT languages, leveraging on frameworks like SPRINGBOOT, EXPRESS JS and DJANGO.
 
 
 
